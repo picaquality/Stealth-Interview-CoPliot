@@ -1,0 +1,5 @@
+pyaudio
+deepgram-sdk==3.2.7
+google-generativeai
+python-dotenv
+keyboard
